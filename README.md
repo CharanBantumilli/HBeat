@@ -15,7 +15,6 @@ This project is designed for educational and prototyping purposes only. It must 
   - [Optional Arguments](#optional-arguments)
 - [Output](#output)
 - [Model Information](#model-information)
-- [Project Structure](#project-structure)
 - [Disclaimer](#disclaimer)
 ---
 
