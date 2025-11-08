@@ -5,6 +5,7 @@ Hbeat is a command-line application that predicts potential heart disease risk u
 This project is designed for educational and prototyping purposes only. It must not be used for real medical diagnosis or clinical decision-making.
 
 ---
+
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
@@ -16,7 +17,6 @@ This project is designed for educational and prototyping purposes only. It must 
 - [Model Information](#model-information)
 - [Project Structure](#project-structure)
 - [Disclaimer](#disclaimer)
-- [License](#license)
 ---
 
 ## Overview
