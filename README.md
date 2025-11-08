@@ -20,7 +20,7 @@ This project is designed for educational and prototyping purposes only. It must 
 
 ## Overview
 
-Hbeat evaluates patient indicators such as age, blood pressure, chest pain type, cholesterol level, oxygen levels, hereditary factors, and more. Using a pre-trained `.joblib` model, the tool estimates whether the patient may be at risk of heart disease.
+Hbeat evaluates patient indicators such as age, blood pressure, chest pain type, cholesterol level, oxygen levels, hereditary factors, and more. Using a pre-trained `Hbeat.joblib` model, the tool estimates whether the patient may be at risk of heart disease.
 
 The application is lightweight, fast, and suitable for experimentation with various machine-learning models.
 
@@ -44,13 +44,11 @@ The application is lightweight, fast, and suitable for experimentation with vari
 Ensure your environment includes:
 
 - Python 3.8 or later  
-- `joblib`  
-- `pandas`  
 
 ### Install Dependencies
 
 ```bash
-pip install joblib pandas
+pip install -r requirements.txt
 ```
 ### Clone the Repository
 
