@@ -1,6 +1,6 @@
 # Hbeat – Heart Stroke Risk Analyzer
 
-Hbeat is a command-line application that predicts potential heart disease risk using a machine-learning model. Users supply patient health parameters through command-line arguments, and the tool processes these inputs to generate a risk assessment.
+This is a command-line application that predicts potential heart disease risk using a machine-learning model. Users supply patient health parameters through command-line arguments, and the tool processes these inputs to generate a risk assessment.
 
 This project is designed for educational and prototyping purposes only. It must not be used for real medical diagnosis or clinical decision-making.
 
