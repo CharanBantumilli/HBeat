@@ -127,12 +127,6 @@ Hbeat requires a machine-learning model trained using the following features:
 - Oxygenlevels
 - AW
 
-The model must be:
-
-- Saved in `.joblib` format  
-- Compatible with scikit-learn or similar frameworks  
-- Structured to accept the exact feature order and names listed above
-
 ## Disclaimer
 
 This project is intended strictly for educational, research, and demonstration purposes.  
